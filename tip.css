@@ -1,0 +1,72 @@
+body{
+font-family:consolas;
+background-image:url("bg.jpg");
+background-position:center;
+background-size:cover;
+background-repeat: no-repeat;
+}
+form{
+	background-image:url("frm.jpg");
+	border-radius:20px;
+	
+	position:relative;
+	top:15%;
+	margin:0 auto;
+	width:500px;
+	height:400px;
+}
+
+#ba{
+	width:400;
+	height:50;
+	margin-left:40px;
+	border-radius:10px;
+	margin-bottom: 15px;
+	padding:5px;
+}
+#form{
+	margin-top:7px;
+	margin-left:40px;
+	width:400;
+	height:50;
+	margin-bottom:10px;
+	border-radius:7px;
+}
+#pep{
+	width:400;
+	height:50;
+	border-radius:7px;
+	margin:7px 0px 7px 40px;
+	
+}
+#button{
+	border-radius:10px;
+	border:solid orange;
+	margin-top:10;
+	width:180px;
+	height:40px;
+	background-color:#cc3399;
+	margin-left:150px;
+}
+h2{
+	border-radius:20px 20px 0px 0px; 
+	color:white;
+	background-color: #8B0000;
+	height:40px;
+	font-size:30;
+}
+#answer{
+	width:150;
+	height:40px;
+	border-radius:10px;
+}
+
+
+
+
+
+
+
+
+
+
